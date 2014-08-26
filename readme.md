@@ -1,1 +1,2 @@
-#I am a readme (and a cookie monster)!
+#Welcome to the chat!
+We'll be using this as teh chat
