@@ -1,0 +1,10 @@
+li{
+    display:inline-block;
+}
+
+nav{
+    background: #333; 
+    color: white;
+    text-align: center;
+    width: 100%;
+}
