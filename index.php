@@ -17,5 +17,11 @@
             </ul>
         </nav>
         
+        <div class="chat-wrapper">   <!-- division, or section, used for the layout -->
+        
+            <input type="text">
+            
+        </div>
+        
     </body>
 </html>
